@@ -38,7 +38,8 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/shubhamr409/coding-market-flask.git
 ## Usage
 1. Start the Flask Application
-   run the command (python run.py)
+   ```bash
+   python run.py
 2. Open a web browser and navigate to http://localhost:5000 to access the Coding Market application.
 
 3. Register as a new user or log in with an existing account.
